@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Fernando Callasaca fernandocallasaca@outlook.com @fcallasaca
 
 # THANKS
 
